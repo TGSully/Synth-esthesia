@@ -16,3 +16,6 @@ Mary had a little lamb.png
 <br />
 Pop goes the weasle.png
 <br />
+
+## Demo Video Link
+[Synth-esthesia Demo](https://www.youtube.com/watch?v=15f6C21gZDQ "Title")
