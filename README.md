@@ -8,6 +8,9 @@ ExeSum-EmbSys-2018-TaylorSullivan-2.pdf
 ### Final Report:<br />
 FinalReport-EmbSys-TaylorSullivan-3.pdf
 <br />
+# Schematic
+Synth-esthesia_schem.png
+<br />
 # Code
 synth-esthesia.ino
 <br />
