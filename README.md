@@ -1,6 +1,6 @@
 # Synth-esthesia
-An embedded microcontroller system which translates color to an audidble pitch.
-<br />
+An embedded microcontroller system which translates color to an audidble pitch using an ISL29125 Color Sensor and TI MSP430G2553.
+<br /> 
 # Deliverables
 ### Executive Summary:<br />
 ExeSum-EmbSys-2018-TaylorSullivan-2.pdf
