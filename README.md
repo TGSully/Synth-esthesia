@@ -44,24 +44,17 @@ Breadboard for Synth-esthesia:
 https://www.youtube.com/watch?v=15f6C21gZDQ
 
 ## VII	Schematic
-
-
-
+![Alt text](Synth-esthesia_schem.png)  
 *Note that the three buttons are active low with an internal pull-up resistor
-
-
-
 ## VIII	Flowchart
 	
 
 ## IX	Musical Transcriptions 
-
+![Alt text](Pop goes the weasle.png) 
 The figure above is the song “Pop goes the Weasel” transcribed for Synth-esthesia
-
-
+![Alt text](Mary had a little lamb.png) 
 The figure above is the song “Mary had a little lamb” transcribed for Synth-esthesia
-
-
+![Alt text](Synth-esthesia_schem.png) 
 The figure above a major scale and improvisation palette for Synth-esthesia
 
 
