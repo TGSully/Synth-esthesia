@@ -46,7 +46,7 @@ The figure above is the song “Pop goes the Weasel” transcribed for Synth-est
 ![Alt text](images/Mary_had_a_little_lamb.png) <br />
 The figure above is the song “Mary had a little lamb” transcribed for Synth-esthesia
 ![Alt text](images/color_choices.png) <br />
-The figure above a major scale and improvisation palette for Synth-esthesia
+The figure above is a major scale and improvisation palette for Synth-esthesia
 
 
 ## X	References
