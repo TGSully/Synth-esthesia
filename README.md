@@ -41,11 +41,11 @@ https://www.youtube.com/watch?v=15f6C21gZDQ
 	
 
 ## IX	Musical Transcriptions 
-![Alt text](images/Pop_goes_the_weasle.png) 
+![Alt text](images/Pop_goes_the_weasle.png) <br />
 The figure above is the song “Pop goes the Weasel” transcribed for Synth-esthesia
-![Alt text](images/Mary_had_a_little_lamb.png) 
+![Alt text](images/Mary_had_a_little_lamb.png) <br />
 The figure above is the song “Mary had a little lamb” transcribed for Synth-esthesia
-![Alt text](images/color_choices.png) 
+![Alt text](images/color_choices.png) <br />
 The figure above a major scale and improvisation palette for Synth-esthesia
 
 
