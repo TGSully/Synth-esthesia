@@ -32,7 +32,7 @@ Color vision deficiency, commonly known as color blindness, is a medical conditi
 ### Breadboard for Synth-esthesia:
 ![Alt text](images/breadboard.jpg)
 ### Synth-esthesia Demo Link:
-https://www.youtube.com/watch?v=15f6C21gZDQ
+[Synth-esthesia Demo Video](https://www.youtube.com/watch?v=15f6C21gZDQ)
 
 ## VII	Schematic
 ![Alt text](Synth-esthesia_schem.png)  
