@@ -59,7 +59,7 @@ The figure above is a major scale and improvisation palette for Synth-esthesia
 
 [1] Taylor, A. (2017). Newton’s Color Theory, ca. 1665. [online] The Scientist Magazine®.   Available at: https://www.the-scientist.com/foundations/newtons-color-theory-ca-1665-31931 [Accessed 28 Jul. 2018].
 
-[2] Learn.adafruit.com. (2018). Code | Flora MIDI Drum Glove | Adafruit Learning System. [online] Available at: https://learn.adafruit.com/midi-drum-glove/code [Accessed 28 Jul. 2018].
+[2] Learn.adafruit.com. (2018). Code  Flora MIDI Drum Glove  Adafruit Learning System. [online] Available at: https://learn.adafruit.com/midi-drum-glove/code [Accessed 28 Jul. 2018].
 
 
 	
